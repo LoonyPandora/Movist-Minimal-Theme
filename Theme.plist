@@ -134,7 +134,7 @@
         <key>durationTextField</key>
         <dict>
             <key>frame</key>
-            <string>{{250,4},{64,14}}</string>
+            <string>{{368,4},{64,14}}</string>
             <key>autoresize</key>
             <string>MinXMargin</string>
             <key>textAttributes</key>
